@@ -1,0 +1,21 @@
+{
+  "name": "blog-practice",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "author": "hah",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.18.3",
+    "bootstrap": "3.3.7",
+    "express": "^4.16.4",
+    "express-art-template": "^1.0.1",
+    "express-session": "^1.15.6",
+    "jquery": "3.2.1",
+    "mongoose": "^5.4.19"
+  }
+}
